@@ -5,3 +5,7 @@
 .TextUnderline {
     text-decoration: underline;
 }
+
+.MediaCard {
+    width: 300px;
+}

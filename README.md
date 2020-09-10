@@ -6,4 +6,6 @@ What this project covered
 - deploy the website on [Surge](https://surge.sh)
 - use GitHub Actions to perform CI/CD
 
-Repository created as part of [Bootcamp 2020](https://github.com/panacloud/bootcamp-2020) online sessions
+<hr />
+
+###### Repository created as part of [Bootcamp 2020](https://github.com/panacloud/bootcamp-2020) online sessions
